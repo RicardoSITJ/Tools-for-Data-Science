@@ -6,7 +6,6 @@
 ### **Skills:**  
 - [Skill 1]  
 - [Skill 2]  
-- [Skill 3] 
 ---
 
 ### **Work Experience:**  
@@ -19,7 +18,6 @@
 **Description:**  
 - [Responsibility 1]  
 - [Responsibility 2]  
-- [Responsibility 3]  
 
 #### **Job 2**  
 **Role:** [Job Title]  
@@ -29,7 +27,6 @@
 **Description:**  
 - [Responsibility 1]  
 - [Responsibility 2]  
-- [Responsibility 3]  
 
 ---
 
